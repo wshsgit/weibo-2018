@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="tags [file:/D:/idea/spark-2.1.1/]" external.linked.project.path="$MODULE_DIR$/../../common/tags" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="tags [file:/D:/workspace/spark-2.1.1/]" external.linked.project.path="$MODULE_DIR$/../../common/tags" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
     <output url="file://$MODULE_DIR$/../../common/tags/target/scala-2.11/classes" />
     <output-test url="file://$MODULE_DIR$/../../common/tags/target/scala-2.11/test-classes" />
@@ -15,14 +15,14 @@
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: com.google.guava:guava:14.0.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.spark-project.spark:unused:1.0.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest_2.11:2.2.6:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.11.7:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.8:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest-core:1.3:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: junit:junit:4.12:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="sbt: com.novocode:junit-interface:0.11:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: junit:junit:4.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest-core:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.11.8:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.11.7:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scalatest:scalatest_2.11:2.2.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.spark-project.spark:unused:1.0.0:jar" level="project" />
   </component>
 </module>

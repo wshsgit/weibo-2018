@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="367d23e4-b7f0-47c8-869a-212ccb712258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/src/main/scala/source/FinkWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_common_tests_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_procedure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_hbase_hbase_server_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_jamon_jamon_runtime_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_101tec_zkclient_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_univocity_univocity_parsers_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_netty_netty_3_8_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javolution_javolution_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_client_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_framework_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_derby_derby_10_10_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_10_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_3_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_iq80_snappy_snappy_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_hive_hive_exec_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_hive_hive_metastore_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_code_gson_gson_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__io_netty_netty_3_9_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_auth_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_sdk_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_mina_mina_core_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20110124.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hadoop_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left2/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/bean/WCFIle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/constant/SplitEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/driver/WcFileDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/group/WcFileGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/reducer/WcFileReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/kafka_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/CostomConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/interceptor/CounterInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/interceptor/InterceptorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/src/main/java/com/atguigu/kafka_consumer/CustomerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/src/main/java/com/atguigu/kafka_consumer/LowerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logcollector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logcollector/logcollector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulConsumerAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/sparkCode/wordCount/src/main/scala/MergeSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/sparkCode/wordCount/src/main/scala/QuickSort.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/old-deps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/old-deps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-catalyst.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-catalyst.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-graphx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-graphx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-hive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-launcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-launcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-mllib-local.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-mllib-local.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-mllib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-mllib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-network-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-network-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-network-shuffle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-network-shuffle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-repl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-repl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sketch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sketch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sql-kafka-0-10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sql-kafka-0-10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume-sink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume-sink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-flume.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-10-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-10-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-8-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-8-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming-kafka-0-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-streaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-tags.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-tags.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-unsafe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-2.1.1/.idea/modules/spark-unsafe.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="387049172">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="73" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="73" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="51" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="51" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/fs/Path.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2424">
+              <caret line="133" column="16" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9864">
+              <caret line="464" column="5" selection-start-line="462" selection-start-column="31" selection-end-line="464" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.7.2/hadoop-mapreduce-client-app-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/v2/app/webapp/dao/JobInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/work/jdk/src.zip!/java/lang/Iterable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/GroupCompare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/GroupDriver.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/GroupCompare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/Orders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/reducer/WcFileReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/group/WcFileGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/driver/WcFileDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/bean/WCFIle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/aaa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupDriver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\maven\repository" />
+        <option name="userSettingsFile" value="D:\work\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1555" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hadoop_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="left2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.7.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.7.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="hadoop-mapreduce-client-app-2.7.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.7.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="hadoop-mapreduce-client-app-2.7.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hadoop_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.7.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="hadoop-mapreduce-client-app-2.7.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="mapreduce" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="mapreduce.job.reduces&#9;PSI&#9;JAVA://org.apache.hadoop.mapreduce.v2.app.webapp.dao.JobInfo#reducesRunning&#10;reduces&#9;PSI&#9;JAVA://org.apache.hadoop.mapred.ReduceTaskStatus" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558745754287" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hbase" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\hadoop_test\src\main\java\com\atguigu\right_1" />
+      <recent name="D:\workspace\hadoop_test\src\main\java\com\atguigu\red" />
+      <recent name="D:\workspace\hadoop_test\src\main\java\com\atguigu" />
+      <recent name="D:\workspace\hadoop_test\src\main\java" />
+      <recent name="D:\workspace\hadoop_test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GroupDriver">
+    <configuration name="GroupDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.left2.GroupDriver" />
+      <module name="hadoop_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.left2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.right_1.MDriver" />
+      <module name="hadoop_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.right_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneIndexDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.left_1.OneIndexDriver" />
+      <module name="hadoop_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.left_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoIndexDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.left_1.TwoIndexDriver" />
+      <module name="hadoop_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.left_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WcFileDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.red.mr.driver.WcFileDriver" />
+      <module name="hadoop_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.red.mr.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GroupDriver" />
+      <item itemvalue="Application.WcFileDriver" />
+      <item itemvalue="Application.OneIndexDriver" />
+      <item itemvalue="Application.MDriver" />
+      <item itemvalue="Application.TwoIndexDriver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupDriver" />
+        <item itemvalue="Application.TwoIndexDriver" />
+        <item itemvalue="Application.OneIndexDriver" />
+        <item itemvalue="Application.MDriver" />
+        <item itemvalue="Application.WcFileDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367d23e4-b7f0-47c8-869a-212ccb712258" name="Default Changelist" comment="" />
+      <created>1554809299981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554809299981</updated>
+      <workItem from="1554809309878" duration="11588000" />
+      <workItem from="1554966496424" duration="399000" />
+      <workItem from="1554971567174" duration="1515000" />
+      <workItem from="1555396977353" duration="1370000" />
+      <workItem from="1555506882504" duration="1496000" />
+      <workItem from="1555727462627" duration="628000" />
+      <workItem from="1556085108810" duration="13000" />
+      <workItem from="1558700154785" duration="2693000" />
+      <workItem from="1558957018431" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19744000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.06744868" visible="true" weight="0.22117962" />
+      <window_info id="Structure" order="1" sideWeight="0.9325513" side_tool="true" weight="0.21849866" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3900293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45307916" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32991204" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupReduce.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupMapper.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/Orders.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexMapper.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexMapper.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexMapper.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/GroupCompare.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/GroupCompare.java" />
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/io/Writable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/jdk/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/io/WritableComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="72" column="62" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/MRJobConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="821" lean-forward="true" selection-start-line="821" selection-end-line="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/JobContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/util/Progressable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/TaskAttemptContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/MapContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="106" column="20" lean-forward="true" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/io/NullWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="874" column="14" selection-start-line="874" selection-start-column="14" selection-end-line="874" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/constant/SplitEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/group/WcFileGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/driver/WcFileDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/bean/WCFIle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/red/mr/reducer/WcFileReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/right_1/MDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.7.2/hadoop-mapreduce-client-app-2.7.2.jar!/org/apache/hadoop/mapreduce/v2/app/webapp/dao/JobInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapred/ReduceTaskStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-common/2.7.2/hadoop-common-2.7.2-sources.jar!/org/apache/hadoop/fs/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2424">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9864">
+          <caret line="464" column="5" selection-start-line="462" selection-start-column="31" selection-end-line="464" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.2/hadoop-mapreduce-client-core-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/TwoIndexReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.7.2/hadoop-mapreduce-client-app-2.7.2-sources.jar!/org/apache/hadoop/mapreduce/v2/app/webapp/dao/JobInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work/jdk/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left2/GroupDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/left_1/OneIndexDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hadoop_test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
