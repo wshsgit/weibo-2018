@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1500" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-catalyst_2.11" />
+        <module name="spark-core_2.11" />
+        <module name="spark-examples" />
+        <module name="spark-examples_2.11" />
+        <module name="spark-graphx_2.11" />
+        <module name="spark-hive" />
+        <module name="spark-hive_2.11" />
+        <module name="spark-launcher_2.11" />
+        <module name="spark-mllib" />
+        <module name="spark-mllib-local" />
+        <module name="spark-mllib-local_2.11" />
+        <module name="spark-mllib_2.11" />
+        <module name="spark-network-common" />
+        <module name="spark-network-common_2.11" />
+        <module name="spark-network-shuffle" />
+        <module name="spark-network-shuffle_2.11" />
+        <module name="spark-repl" />
+        <module name="spark-repl_2.11" />
+        <module name="spark-sketch_2.11" />
+        <module name="spark-sql-kafka-0-10_2.11" />
+        <module name="spark-sql_2.11" />
+        <module name="spark-streaming-flume-assembly_2.11" />
+        <module name="spark-streaming-flume-sink_2.11" />
+        <module name="spark-streaming-flume_2.11" />
+        <module name="spark-streaming-kafka-0-10-assembly_2.11" />
+        <module name="spark-streaming-kafka-0-10_2.11" />
+        <module name="spark-streaming-kafka-0-8-assembly_2.11" />
+        <module name="spark-streaming-kafka-0-8_2.11" />
+        <module name="spark-streaming_2.11" />
+        <module name="spark-tags_2.11" />
+        <module name="spark-tools_2.11" />
+        <module name="spark-unsafe_2.11" />
+        <module name="sql" />
+        <module name="sql-kafka-0-10" />
+        <module name="streaming" />
+        <module name="streaming-flume" />
+        <module name="streaming-flume-assembly" />
+        <module name="streaming-flume-sink" />
+        <module name="streaming-kafka-0-10" />
+        <module name="streaming-kafka-0-10-assembly" />
+        <module name="streaming-kafka-0-8" />
+        <module name="streaming-kafka-0-8-assembly" />
+        <module name="tags" />
+        <module name="tools" />
+        <module name="unsafe" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java8-tests" target="1.8" />
+      <module name="java8-tests_2.11" target="1.8" />
+      <module name="repl" target="1.7" />
+      <module name="spark-assembly_2.11" target="1.5" />
+      <module name="spark-catalyst_2.11" target="1.7" />
+      <module name="spark-core_2.11" target="1.7" />
+      <module name="spark-examples" target="1.7" />
+      <module name="spark-examples_2.11" target="1.7" />
+      <module name="spark-graphx_2.11" target="1.7" />
+      <module name="spark-hive" target="1.7" />
+      <module name="spark-hive_2.11" target="1.7" />
+      <module name="spark-launcher_2.11" target="1.7" />
+      <module name="spark-mllib" target="1.7" />
+      <module name="spark-mllib-local" target="1.7" />
+      <module name="spark-mllib-local_2.11" target="1.7" />
+      <module name="spark-mllib_2.11" target="1.7" />
+      <module name="spark-network-common" target="1.7" />
+      <module name="spark-network-common_2.11" target="1.7" />
+      <module name="spark-network-shuffle" target="1.7" />
+      <module name="spark-network-shuffle_2.11" target="1.7" />
+      <module name="spark-parent" target="1.5" />
+      <module name="spark-parent_2.11" target="1.5" />
+      <module name="spark-repl" target="1.7" />
+      <module name="spark-repl_2.11" target="1.7" />
+      <module name="spark-sketch_2.11" target="1.7" />
+      <module name="spark-sql-kafka-0-10_2.11" target="1.7" />
+      <module name="spark-sql_2.11" target="1.7" />
+      <module name="spark-streaming-flume-assembly_2.11" target="1.7" />
+      <module name="spark-streaming-flume-sink_2.11" target="1.7" />
+      <module name="spark-streaming-flume_2.11" target="1.7" />
+      <module name="spark-streaming-kafka-0-10-assembly_2.11" target="1.7" />
+      <module name="spark-streaming-kafka-0-10_2.11" target="1.7" />
+      <module name="spark-streaming-kafka-0-8-assembly_2.11" target="1.7" />
+      <module name="spark-streaming-kafka-0-8_2.11" target="1.7" />
+      <module name="spark-streaming_2.11" target="1.7" />
+      <module name="spark-tags_2.11" target="1.7" />
+      <module name="spark-tools_2.11" target="1.7" />
+      <module name="spark-unsafe_2.11" target="1.7" />
+      <module name="sql" target="1.7" />
+      <module name="sql-kafka-0-10" target="1.7" />
+      <module name="streaming" target="1.7" />
+      <module name="streaming-flume" target="1.7" />
+      <module name="streaming-flume-assembly" target="1.7" />
+      <module name="streaming-flume-sink" target="1.7" />
+      <module name="streaming-kafka-0-10" target="1.7" />
+      <module name="streaming-kafka-0-10-assembly" target="1.7" />
+      <module name="streaming-kafka-0-8" target="1.7" />
+      <module name="streaming-kafka-0-8-assembly" target="1.7" />
+      <module name="tags" target="1.7" />
+      <module name="tools" target="1.7" />
+      <module name="unsafe" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="java8-tests" options="-Xlint:all,-serial,-path" />
+      <module name="spark-assembly_2.11" options="" />
+      <module name="spark-catalyst_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-core_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-examples" options="-Xlint:all,-serial,-path" />
+      <module name="spark-examples_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-graphx_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-hive" options="-Xlint:all,-serial,-path" />
+      <module name="spark-hive_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-launcher_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-mllib" options="-Xlint:all,-serial,-path" />
+      <module name="spark-mllib-local" options="-Xlint:all,-serial,-path" />
+      <module name="spark-mllib-local_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-mllib_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-network-common" options="-Xlint:all,-serial,-path" />
+      <module name="spark-network-common_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-network-shuffle" options="-Xlint:all,-serial,-path" />
+      <module name="spark-network-shuffle_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-parent" options="" />
+      <module name="spark-parent_2.11" options="" />
+      <module name="spark-repl" options="-Xlint:all,-serial,-path" />
+      <module name="spark-repl_2.11" options="-Xlint:all,-serial,-path" />
+      <module name="spark-sketch_2.11" options="-Xlint:all,-serial,-path -XDignore.symbol.file" />
+      <module name="sql" options="-Xlint:all,-serial,-path" />
+      <module name="sql-kafka-0-10" options="-Xlint:all,-serial,-path" />
+      <module name="streaming" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-flume" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-flume-assembly" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-flume-sink" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-kafka-0-10" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-kafka-0-10-assembly" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-kafka-0-8" options="-Xlint:all,-serial,-path" />
+      <module name="streaming-kafka-0-8-assembly" options="-Xlint:all,-serial,-path" />
+      <module name="tags" options="-Xlint:all,-serial,-path" />
+      <module name="tools" options="-Xlint:all,-serial,-path" />
+      <module name="unsafe" options="-Xlint:all,-serial,-path -XDignore.symbol.file" />
+    </option>
+  </component>
+</project>

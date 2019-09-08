@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91b7eceb-2a15-40f5-baad-d11e8ba595aa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/src/main/scala/source/FinkWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinkSource01/test02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_101tec_zkclient_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_univocity_univocity_parsers_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_netty_netty_3_8_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__javolution_javolution_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_client_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_framework_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_derby_derby_10_10_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_10_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_3_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_iq80_snappy_snappy_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_hive_hive_exec_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_hive_hive_metastore_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commerce/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_code_gson_gson_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__io_netty_netty_3_9_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_auth_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_configuration_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_flume_flume_ng_sdk_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_mina_mina_core_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20110124.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flume-interceptor/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/hadoop_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left2/GroupDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left2/GroupMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left2/GroupReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left2/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/OneIndexDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/OneIndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/OneIndexReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/TwoIndexDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/TwoIndexMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/left_1/TwoIndexReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/bean/WCFIle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/constant/SplitEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/driver/WcFileDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/group/WcFileGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/mapper/WcFileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/red/mr/reducer/WcFileReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/right_1/MDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/java/com/atguigu/right_1/MMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop_test/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/kafka_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/CostomConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/interceptor/CounterInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_demo/src/main/java/com/atguigu/kafka/interceptor/InterceptorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/src/main/java/com/atguigu/kafka_consumer/CustomerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka_test/src/main/java/com/atguigu/kafka_consumer/LowerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logcollector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logcollector/logcollector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulConsumerAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pulsar_test/src/main/java/com/atguigu/PulProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/sparkCode/wordCount/src/main/scala/MergeSort.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/sparkCode/wordCount/src/main/scala/QuickSort.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/old-deps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/old-deps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-catalyst.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-catalyst.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-graphx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-graphx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-hive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-launcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-launcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-mllib-local.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-mllib-local.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-mllib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-mllib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-network-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-network-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-network-shuffle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-network-shuffle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-repl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-repl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-sketch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-sketch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-sql-kafka-0-10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-sql-kafka-0-10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume-sink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume-sink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-flume.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-10-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-10-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-8-assembly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-8-assembly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming-kafka-0-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-streaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-tags.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-tags.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark-unsafe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark-unsafe.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/external/flume-assembly/target/" />
+    <ignored path="$PROJECT_DIR$/core/target/" />
+    <ignored path="$PROJECT_DIR$/graphx/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-shuffle/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-assembly/target/" />
+    <ignored path="$PROJECT_DIR$/common/sketch/target/" />
+    <ignored path="$PROJECT_DIR$/tools/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-common/target/" />
+    <ignored path="$PROJECT_DIR$/sql/hive/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8/target/" />
+    <ignored path="$PROJECT_DIR$/streaming/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10/target/" />
+    <ignored path="$PROJECT_DIR$/examples/target/" />
+    <ignored path="$PROJECT_DIR$/mllib-local/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-sql/target/" />
+    <ignored path="$PROJECT_DIR$/launcher/target/" />
+    <ignored path="$PROJECT_DIR$/sql/catalyst/target/" />
+    <ignored path="$PROJECT_DIR$/mllib/target/" />
+    <ignored path="$PROJECT_DIR$/common/tags/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume-sink/target/" />
+    <ignored path="$PROJECT_DIR$/assembly/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8-assembly/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/external/java8-tests/target/" />
+    <ignored path="$PROJECT_DIR$/repl/target/" />
+    <ignored path="$PROJECT_DIR$/sql/core/target/" />
+    <ignored path="$PROJECT_DIR$/common/unsafe/target/" />
+    <ignored path="$PROJECT_DIR$/dev/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/assembly/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/assembly/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-common/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-common/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-shuffle/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/network-shuffle/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/sketch/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/sketch/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/tags/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/tags/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/unsafe/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/unsafe/project/target/" />
+    <ignored path="$PROJECT_DIR$/core/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/core/project/target/" />
+    <ignored path="$PROJECT_DIR$/dev/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/dev/project/target/" />
+    <ignored path="$PROJECT_DIR$/examples/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/examples/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume-assembly/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume-assembly/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume-sink/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/flume-sink/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/java8-tests/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/java8-tests/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-assembly/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-assembly/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-sql/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-10-sql/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8-assembly/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/external/kafka-0-8-assembly/project/target/" />
+    <ignored path="$PROJECT_DIR$/graphx/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/graphx/project/target/" />
+    <ignored path="$PROJECT_DIR$/launcher/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/launcher/project/target/" />
+    <ignored path="$PROJECT_DIR$/mllib/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/mllib/project/target/" />
+    <ignored path="$PROJECT_DIR$/mllib-local/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/mllib-local/project/target/" />
+    <ignored path="$PROJECT_DIR$/repl/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/repl/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/catalyst/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/catalyst/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/core/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/core/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/hive/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/sql/hive/project/target/" />
+    <ignored path="$PROJECT_DIR$/streaming/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/streaming/project/target/" />
+    <ignored path="$PROJECT_DIR$/tools/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/tools/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spark-parent" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-439987436">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1410264143">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ft" value="42" />
+          <entry key="scala" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="15" />
+          <entry key="VTL" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="scala" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="Scala" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/RDD.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5976">
+              <caret line="249" column="13" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
+              <folding>
+                <element signature="e#832#855#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/PairRDDFunctions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3048">
+              <caret line="171" column="18" selection-start-line="171" selection-start-column="13" selection-end-line="171" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/OrderedRDDFunctions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>schedule</find>
+      <find>schedule()</find>
+      <find>reduce</find>
+      <find>main</find>
+      <find>map</find>
+      <find>makeRDD</find>
+      <find>flatm</find>
+      <find>sample</find>
+      <find>accumulator</find>
+      <find>Max</find>
+      <find>persis</find>
+      <find>flatMap</find>
+      <find>part</find>
+      <find>Partitioner</find>
+      <find>partion</find>
+      <find>combineByKey</find>
+      <find>partionBy</find>
+      <find>PartionBy</find>
+      <find>partitionBy</find>
+      <find>parallelize</find>
+      <find>partitions</find>
+      <find>sortByKey</find>
+      <find>sortBy</find>
+      <find>defaultParallelism</find>
+      <find>join</find>
+      <find>union</find>
+      <find>action</find>
+      <find>groupByKey</find>
+      <find>cache</find>
+      <find>Checkpoint</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rpc/RpcEnv.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rpc/RpcEndpoint.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/worker/Worker.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/client/StandaloneAppClient.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/Stage.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/DAGScheduler.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/master/Master.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/Accumulator.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/OrderedRDDFunctions.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/PairRDDFunctions.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1554" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="sortByKey&#9;PSI&#9;JAVA://org.apache.spark.JavaAPISuite#sortByKey&#10;defaultParallelism&#9;null&#9;null&#10;sp&#9;FILE&#9;file://D:/idea/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala&#10;Pair&#9;FILE&#9;file://D:/idea/spark-2.1.1/core/src/main/scala/org/apache/spark/rdd/PairRDDFunctions.scala&#10;persist&#9;null&#9;null&#10;MAX&#9;null&#9;null&#10;max&#9;null&#9;null&#10;accumulator&#9;null&#9;null&#10;makeRDD&#9;null&#9;null&#10;master&#9;FILE&#9;file://D:/尚硅谷大数据学习视频/Spark教程_武玉飞/2.code/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/master/Master.scala&#10;Dataset&#9;FILE&#9;file:///Users/wuyufei/Desktop/Spark/3.code/spark-2.1.1/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala&#10;RDD&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/rdd/RDD.scala&#10;Master&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/master/Master.scala&#10;Sub&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala&#10;Worker&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/worker/Worker.scala&#10;TaskSet&#9;null&#9;null&#10;Task&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/scheduler/TaskScheduler.scala&#10;Rdd&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/rdd/RDD.scala&#10;RangePa&#9;null&#9;null&#10;Drive&#9;null&#9;null&#10;ExecutorBack&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/executor/CoarseGrainedExecutorBackend.scala&#10;Stand&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/scheduler/cluster/StandaloneSchedulerBackend.scala&#10;CoarseGrainedExecutorBackend&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/executor/CoarseGrainedExecutorBackend.scala&#10;Stans&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/scheduler/cluster/StandaloneSchedulerBackend.scala&#10;Executor&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/executor/Executor.scala&#10;YarnSchedulerBackend&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/yarn/src/main/scala/org/apache/spark/scheduler/cluster/YarnSchedulerBackend.scala&#10;Yarn&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/yarn/src/main/scala/org/apache/spark/scheduler/cluster/YarnClusterSchedulerBackend.scala&#10;SparkContext&#9;null&#9;null&#10;Stan&#9;null&#9;null&#10;Client&#9;null&#9;null&#10;SparkSubmit&#9;FILE&#9;file://C:/Users/Administrator/Desktop/Spark/3.code/spark-2.1.1/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala&#10;RpcEnd&#9;null&#9;null&#10;RpcEnv&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554966482573" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoarseGrainedExecutorBackend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.spark.executor.CoarseGrainedExecutorBackend" />
+      <module name="spark-core_2.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.spark.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spark-streaming-flume-assembly_2.11" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="AJP_PORT" value="1099" />
+        <option name="BASE_DIRECTORY_NAME" value="_spark-parent_2_11" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54205" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoarseGrainedExecutorBackend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spark-parent" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume-sink [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume-sink" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="graphx [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/graphx" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="mllib-local [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/mllib-local" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="catalyst [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/catalyst" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sketch [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/sketch" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assembly [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/assembly" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="mllib [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/mllib" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sql-kafka-0-10 [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10-sql" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="network-shuffle [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/network-shuffle" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="java8-tests [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/java8-tests" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-10-assembly [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10-assembly" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/streaming" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume-assembly [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume-assembly" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-8-assembly [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-8-assembly" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="tools [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/tools" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="launcher [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/launcher" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-10 [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-8 [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-8" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="core [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/core" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="oldDeps [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/dev" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="repl [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/repl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hive [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/hive" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="examples [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/examples" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="network-common [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/network-common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="unsafe [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/unsafe" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sql [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/core" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="tags [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/tags" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="assembly-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/assembly/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="network-common-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/network-common/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="network-shuffle-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/network-shuffle/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sketch-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/sketch/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="tags-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/tags/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="unsafe-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/common/unsafe/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="core-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/core/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="oldDeps-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/dev/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="examples-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/examples/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume-assembly-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume-assembly/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-flume-sink-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/flume-sink/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="java8-tests-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/java8-tests/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-10-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-10-assembly-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10-assembly/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sql-kafka-0-10-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-10-sql/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-8-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-8/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-kafka-0-8-assembly-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/external/kafka-0-8-assembly/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="graphx-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/graphx/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="launcher-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/launcher/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="mllib-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/mllib/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="mllib-local-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/mllib-local/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="repl-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/repl/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="catalyst-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/catalyst/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sql-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/core/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hive-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/sql/hive/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streaming-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/streaming/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="tools-build [file:/D:/workspace/spark-2.1.1/]" />
+                <option name="path" value="$PROJECT_DIR$/tools/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7465820795000" />
+        <entry key="$PROJECT_DIR$/project/MimaBuild.scala" value="4198440207" />
+        <entry key="$PROJECT_DIR$/project/MimaExcludes.scala" value="2565760778" />
+        <entry key="$PROJECT_DIR$/project/SparkBuild.scala" value="1114947072" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2843532365" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="940337206" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b7eceb-2a15-40f5-baad-d11e8ba595aa" name="Default" comment="" />
+      <created>1506301925499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506301925499</updated>
+      <workItem from="1506301928896" duration="14959000" />
+      <workItem from="1506344984265" duration="1279000" />
+      <workItem from="1506379431856" duration="1347000" />
+      <workItem from="1506384639228" duration="5402000" />
+      <workItem from="1506514269291" duration="7550000" />
+      <workItem from="1506525647319" duration="272000" />
+      <workItem from="1506560453959" duration="3537000" />
+      <workItem from="1506578412801" duration="6000" />
+      <workItem from="1507192331185" duration="2277000" />
+      <workItem from="1529215280541" duration="95000" />
+      <workItem from="1529215410118" duration="1987000" />
+      <workItem from="1529465551894" duration="1970000" />
+      <workItem from="1529539880003" duration="2488000" />
+      <workItem from="1546661006397" duration="3053000" />
+      <workItem from="1550477002312" duration="5235000" />
+      <workItem from="1550564449515" duration="3415000" />
+      <workItem from="1550709867799" duration="1826000" />
+      <workItem from="1550712351086" duration="1759000" />
+      <workItem from="1550714168028" duration="1295000" />
+      <workItem from="1550718610049" duration="722000" />
+      <workItem from="1550719416317" duration="2207000" />
+      <workItem from="1550727665480" duration="1286000" />
+      <workItem from="1550741326123" duration="48000" />
+      <workItem from="1550741465869" duration="100000" />
+      <workItem from="1550813291595" duration="606000" />
+      <workItem from="1551926534327" duration="1659000" />
+      <workItem from="1553046452368" duration="2174000" />
+      <workItem from="1554722448808" duration="11321000" />
+      <workItem from="1555727511367" duration="2029000" />
+      <workItem from="1556085108704" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81907000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2419571" />
+      <window_info active="true" id="Structure" order="1" visible="true" weight="0.26742628" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.68392664" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23753665" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32940406" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" weight="0.3325792" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49785408" visible="true" weight="0.13489737" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="SBT Console" order="12" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32991204" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.32991204" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="JSON Viewer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="11" weight="0.20654507" />
+      <window_info anchor="right" id="CDI" order="12" />
+      <window_info anchor="right" id="Data View" order="13" />
+      <window_info anchor="right" id="SBT" order="14" weight="0.3299356" />
+      <window_info anchor="right" id="sbt" order="15" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yarn/src/main/scala/org/apache/spark/scheduler/cluster/YarnClusterSchedulerBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/SparkEnv.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="156" column="21" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/DeployMessage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/master/ExecutorDesc.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/worker/CommandUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/local/LocalSchedulerBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/worker/ExecutorRunner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="144" column="68" selection-start-line="144" selection-start-column="61" selection-end-line="144" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/client/StandaloneAppClient.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="173" column="11" selection-start-line="173" selection-start-column="11" selection-end-line="173" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/cluster/StandaloneSchedulerBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/executor/Executor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8645">
+          <caret line="283" column="25" selection-start-line="283" selection-start-column="25" selection-end-line="283" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/executor/ExecutorBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/executor/CoarseGrainedExecutorBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3500">
+          <caret line="132" column="29" selection-start-line="132" selection-start-column="29" selection-end-line="132" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/cluster/CoarseGrainedSchedulerBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3290">
+          <caret line="123" column="24" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/SchedulerBackend.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/TaskSchedulerImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8750">
+          <caret line="282" column="22" selection-start-line="282" selection-start-column="22" selection-end-line="282" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/core/src/main/scala/org/apache/spark/sql/execution/ShuffledRowRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Properties.java" />
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/DAGSchedulerEvent.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/ResultStage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/Stage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/TaskScheduler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/worker/Worker.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/master/ApplicationInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/master/WorkerInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/TaskSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/scheduler/DAGScheduler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40014">
+          <caret line="1066" column="45" selection-start-line="1066" selection-start-column="45" selection-end-line="1066" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38961">
+          <caret line="1048" column="69" selection-start-line="1048" selection-start-column="69" selection-end-line="1048" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/util/EventLoop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4134">
+          <caret line="126" column="25" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/util/Utils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/Accumulator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/aggregate/Max.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/core/src/main/scala/org/apache/spark/sql/execution/command/views.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/scala/org/apache/spark/deploy/master/CustomRecoveryModeFactory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1677">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mllib/src/main/scala/org/apache/spark/mllib/api/python/PythonMLLibAPI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/SparkSubmitArguments.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8010">
+          <caret line="295" column="25" selection-start-line="295" selection-start-column="7" selection-end-line="295" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/master/Master.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/Partitioner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18912">
+          <caret line="832" column="6" selection-start-line="832" selection-start-column="6" selection-end-line="832" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mllib/src/main/scala/org/apache/spark/mllib/evaluation/BinaryClassificationMetrics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="151" column="6" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="221" column="20" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/collection/IndexedSeqOptimized.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/ParallelCollectionRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="95" column="28" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="97" column="30" lean-forward="true" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/api/java/JavaRDDLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="64" column="39" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/Aggregator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/java/org/apache/spark/JavaAPISuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="188" column="23" selection-start-line="188" selection-start-column="14" selection-end-line="188" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/test/scala/org/apache/spark/scheduler/DAGSchedulerSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="129" column="35" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5976">
+          <caret line="249" column="13" selection-start-line="249" selection-start-column="13" selection-end-line="249" selection-end-column="13" />
+          <folding>
+            <element signature="e#832#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3048">
+          <caret line="171" column="18" selection-start-line="171" selection-start-column="13" selection-end-line="171" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/org/apache/spark/rdd/OrderedRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>assembly-build</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
