@@ -5,7 +5,7 @@ import org.apache.hadoop.hbase.client.*;
 import org.apache.hadoop.hbase.util.Bytes;
 
 import java.io.IOException;
-
+//fork 代码测试
 public class HbaseTest {
 
     public static Configuration conf;
